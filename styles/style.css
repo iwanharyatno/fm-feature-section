@@ -41,7 +41,7 @@ h1 span {
 }
 
 .header-normal {
-  font-weight: normal;
+  font-weight: 200;
 }
 
 .header-description {
@@ -113,7 +113,7 @@ h1 span {
   }
 
   .features {
-    max-width: 65rem;
+    max-width: 70rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
